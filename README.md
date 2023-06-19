@@ -1,1 +1,1 @@
-# site-turma-capacitada-Alura
+# site-turma-capacitacao-Alura
